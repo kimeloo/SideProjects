@@ -1,0 +1,1 @@
+http://apis.data.go.kr/1613000/BusLcInfoInqireService/getCtyCodeList?serviceKey=kAfW%2Fr6ii0eqcBXwhE1Y7qj%2Bqosk51ozVNqbq%2FBIS3kOBmfhO8oLyKrUKVwmqxQQv5XumRFhMt%2FrMGQ%2FNXAadA%3D%3D
